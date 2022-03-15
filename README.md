@@ -3,6 +3,9 @@
 
 > This is a free youtube downloader bot constructed using Python and Flask. That allows Youtube search, youtube link based search of youtube content that too with a GUI based user interface
 
+## Add Tubot to your Discord Server
+[Click Here](https://tinyurl.com/yufkrx3r)
+
 ## Bot Instructions
 
 ```TUBOT - Best quality Audio downloader bot for Youtube.
